@@ -93,3 +93,10 @@
     ]
 }
 ```
+## Скриншоты работы приложения.
+![image](https://github.com/user-attachments/assets/d51a8ef5-66a1-4619-b14f-2f209518854c)
+![image](https://github.com/user-attachments/assets/2a682497-0ca2-44a1-b8fc-4ea59c5847f8)
+![image](https://github.com/user-attachments/assets/e0085486-eed7-4d41-aa51-3a31afe0876d)
+### Просмотр от лиица администратора 
+![image](https://github.com/user-attachments/assets/a74630e7-89b1-4162-be40-952421411b8b)
+
